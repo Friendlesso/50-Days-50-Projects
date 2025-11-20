@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Day-2 Form Progress</title>
+  <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+  <section class="container flex justify-between column ">
+    <div class="flex justify-center">
+      <h1>Sign in</h1>
+    </div>
+    <div class="form-container flex column justify-center">
+      <form action="" class="form flex column ">
+        <input type="text" placeholder="Email" id="input-one" required>
+        <input type="text" placeholder="Password" id="input-two" required>
+      </form>
+      <div class="button-container flex justify-between">
+        <button class="btn" id="prev" disabled>Prev</button>
+        <button class="btn" id="next">Next</button>
+      </div>
+    </div>
+    <div class="progress-container flex justify-between">
+      <div class="progress" id="progress"></div>
+      <div class="circle active">1</div>
+      <div class="circle">2</div>
+      <div class="circle">3</div>
+      <div class="circle">4</div>
+    </div>
+  </section>
+  <script src="./script.js"></script>
+</body>
+
+</html>
