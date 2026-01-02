@@ -7,7 +7,7 @@ The goal of this challenge is to improve consistency, reinforce core web develop
 ## Project Index
 
 | Day | Project Name |
-| --:| ------------------- | -------- |
+| --:| ------------------- |
 | 01 | [Expanding Cards](/Expanding%20Cards/) |
 | 02 | [Progress Steps](/Progress%20Steps/) |
 | 03 | [Rotating Navigation](/Rotating%20Navigation/) |
