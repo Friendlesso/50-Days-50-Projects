@@ -6,7 +6,7 @@ The goal of this challenge is to improve consistency, reinforce core web develop
 
 ## Project Index
 
-| Day | Project Name        |
+| Day | Project Name |
 | --:| ------------------- |
 | 01 | Expanding Cards     |
 | 02 | Progress Steps      |
