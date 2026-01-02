@@ -6,9 +6,15 @@ The goal of this challenge is to improve consistency, reinforce core web develop
 
 ## Project Index
 
-| Day | Project Name | Preview |
+| Day | Project Name |
 | --:| ------------------- | -------- |
-| 01 | [Expanding Cards](/Expanding%20Cards/) | No Preview |
-| 02 | [Progress Steps](/Progress%20Steps/) | [Day 02](/Preview-images/day-2-img.png) |
-| 03 | [Rotating Navigation](/Rotating%20Navigation/) | [Day 03](/Preview/2026-01-0215-36-20-ezgif.com-speed.gif) |
+| 01 | [Expanding Cards](/Expanding%20Cards/) |
+| 02 | [Progress Steps](/Progress%20Steps/) |
+| 03 | [Rotating Navigation](/Rotating%20Navigation/) |
+| 04 | [Hidden Search](/Hidden%20Search/) |
+| 05 | [Blurry Loading](/Blurry%20Loading/) |
+| 06 | [Scroll Animation](/Scroll%20Animation/) |
+| 07 | [Split Landing Page](/Split%20Page/) |
+
+
 
