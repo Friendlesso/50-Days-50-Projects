@@ -9,6 +9,6 @@ The goal of this challenge is to improve consistency, reinforce core web develop
 | Day | Project Name | Preview |
 | --:| ------------------- | -------- |
 | 01 | [Expanding Cards](/Expanding%20Cards/) | No Img |
-| 02 | [Progress Steps](/Progress%20Steps/) | ![Day 02](/Preview-images/day-2-img.png) |
+| 02 | [Progress Steps](/Progress%20Steps/) | [Day 02](/Preview-images/day-2-img.png) |
 | 03 | [Rotating Navigation](/Rotating%20Navigation/) |
 
