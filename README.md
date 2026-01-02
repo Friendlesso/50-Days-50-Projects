@@ -15,6 +15,8 @@ The goal of this challenge is to improve consistency, reinforce core web develop
 | 05 | [Blurry Loading](/Blurry%20Loading/) |
 | 06 | [Scroll Animation](/Scroll%20Animation/) |
 | 07 | [Split Landing Page](/Split%20Page/) |
+| 08 | [Form Wave Animation](/Form%20Wave/) |
+| 09 | [Sound Board](/Sound%20Board/) |
 
 
 
