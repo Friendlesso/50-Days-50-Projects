@@ -17,6 +17,7 @@ The goal of this challenge is to improve consistency, reinforce core web develop
 | 07 | [Split Landing Page](/Split%20Page/) |
 | 08 | [Form Wave Animation](/Form%20Wave/) |
 | 09 | [Sound Board](/Sound%20Board/) |
+| 10 | [Dad Jokes](/Dad%20Jokes/) |
 
 
 
