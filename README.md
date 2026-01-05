@@ -18,7 +18,8 @@ The goal of this challenge is to improve consistency, reinforce core web develop
 | 08 | [Form Wave Animation](/Form%20Wave/) |
 | 09 | [Sound Board](/Sound%20Board/) |
 | 10 | [Dad Jokes](/Dad%20Jokes/) |
-| 10 | [Event KeyCodes](/KeyCodes/) |
+| 11 | [Event KeyCodes](/KeyCodes/) |
+| 12 | [FAQ Collapse](/FAQ%20Collapse/) |
 
 
 
