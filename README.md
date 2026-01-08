@@ -20,6 +20,7 @@ The goal of this challenge is to improve consistency, reinforce core web develop
 | 10 | [Dad Jokes](/Dad%20Jokes/) |
 | 11 | [Event KeyCodes](/KeyCodes/) |
 | 12 | [FAQ Collapse](/FAQ%20Collapse/) |
+| 13 | [Random Choice Picker](/Random%20Choice%20Picker/) |
 
 
 
