@@ -21,6 +21,7 @@ The goal of this challenge is to improve consistency, reinforce core web develop
 | 11 | [Event KeyCodes](/KeyCodes/) |
 | 12 | [FAQ Collapse](/FAQ%20Collapse/) |
 | 13 | [Random Choice Picker](/Random%20Choice%20Picker/) |
+| 14 | [Animated Nav](/Animated%20Nav/) |
 
 
 
