@@ -23,6 +23,7 @@ The goal of this challenge is to improve consistency, reinforce core web develop
 | 13 | [Random Choice Picker](/Random%20Choice%20Picker/) |
 | 14 | [Animated Nav](/Animated%20Nav/) |
 | 15 | [Increment Counter](/Animated%20Nav/) |
+| 16 | [Drink Water](/Drink%20Water/) |
 
 
 
