@@ -68,6 +68,10 @@ h3 {
   width: 280px;
 }
 
+.cups div {
+  user-select: none;
+}
+
 .remained {
   display: flex;
   align-items: center;
