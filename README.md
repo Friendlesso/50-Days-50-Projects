@@ -25,11 +25,10 @@ The goal of this challenge is to improve consistency, reinforce core web develop
 | 15 | [Increment Counter](/Animated%20Nav/) |
 | 16 | [Drink Water](/Drink%20Water/) |
 
-
-
 | 18 | [Background Slider](/Background%20Slider/) |
 
 | 20 | [Button Ripple Effect](/Button%20Ripple/) |
+| 21 | [Button Ripple Effect](/Button%20Ripple/) |
 
 
 
