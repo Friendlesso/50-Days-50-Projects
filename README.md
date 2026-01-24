@@ -28,7 +28,7 @@ The goal of this challenge is to improve consistency, reinforce core web develop
 | 18 | [Background Slider](/Background%20Slider/) |
 
 | 20 | [Button Ripple Effect](/Button%20Ripple/) |
-| 21 | [Drag and Drop](/Button%20Ripple/) |
+| 21 | [Drag and Drop](/Drag%20N%20Drop/) |
 
 
 
